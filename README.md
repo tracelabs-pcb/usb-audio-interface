@@ -1,4 +1,4 @@
-markdown# USB-C Audio Interface — Desktop / Streaming / Meetings
+USB-C Audio Interface — Desktop / Streaming / Meetings
 
 **Status: PCB-Design abgeschlossen — unbestückt**  
 **Tool:** KiCad | **Layer:** 4-Layer | **Hersteller-ready:** Ja
